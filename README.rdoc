@@ -1,8 +1,8 @@
 == BLNK
 
-BLNK is a blank application in Rails
+BLNK is a blank application in Rails to launch fast prototypes skiping the configuration.
 
-Include:
+It include:
 
 *
 
@@ -10,10 +10,13 @@ Pipeline:
 
 * Gemfile
 * Static Pages: Home, About, Help
+* Devise
+* Devise edited: Name
 * Footer
 * Header
 * Home Page
 * Clean CSS
+* Company Model
 
 
 
