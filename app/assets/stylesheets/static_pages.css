@@ -85,3 +85,14 @@ h6 {
 a {
 	text-decoration: none;
 }
+a:hover{
+	text-decoration: underline;
+}
+ul.horizontal-list li {
+	display: inline;
+}
+
+/* App Resources */
+#logo{
+	display: inline;
+}
