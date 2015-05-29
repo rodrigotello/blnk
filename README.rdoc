@@ -4,21 +4,23 @@ BLNK is a blank application in Rails to launch fast prototypes skiping the confi
 
 It include:
 
-*
-
-Pipeline:
-
 * Gemfile
 * Static Pages: Home, About, Help
 * Devise
-* Devise edited: Name
 * Footer
 * Header
 * Home Page
 * Clean CSS
+
+Next Step:
+* Add Name to Devise
+* http://jacopretorius.net/2014/03/adding-custom-fields-to-your-devise-user-model-in-rails-4.html
+* Visualize and edit Views to SignIn and SignUp
+
+Pipeline:
+
+* Devise edited: Name
 * Company Model
-
-
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
