@@ -11,11 +11,11 @@ It include:
 * Header
 * Home Page
 * Clean CSS
+* Visualize and edit Views to SignIn and SignUp
 
 Next Step:
 * Add Name to Devise
 * http://jacopretorius.net/2014/03/adding-custom-fields-to-your-devise-user-model-in-rails-4.html
-* Visualize and edit Views to SignIn and SignUp
 
 Pipeline:
 
