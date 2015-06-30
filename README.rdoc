@@ -13,11 +13,11 @@ It include:
 * Clean CSS
 * "Roboto" font
 * Visualize and edit Views to SignIn and SignUp
+* Name field added to Devise Model
+* Logic in the Nav-Bar
 
 Next Step:
-* Clean
-* Add Name to Devise
-* http://jacopretorius.net/2014/03/adding-custom-fields-to-your-devise-user-model-in-rails-4.html
+* Clean the SignUp and LogIn forms
 
 Pipeline:
 
@@ -25,6 +25,8 @@ Pipeline:
 * Company Model
 * Responsive Design
 * Add Multiple Home-Pages
+
+* This link was used to add the Name field: http://jacopretorius.net/2014/03/adding-custom-fields-to-your-devise-user-model-in-rails-4.html
 
 By Rodrigo Tello
 http://rodrigotello.me

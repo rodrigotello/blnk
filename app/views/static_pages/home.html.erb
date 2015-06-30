@@ -1,3 +1,7 @@
 <h1>Here it goes a value proposition</h1>
 <h2>Try to add a value proposition</h2>
-<%= link_to 'Register now', new_user_registration_path %>
+<% if user_signed_in? %>
+	Hello, <%= current_user.name %>
+	<%else%>
+	<%= link_to 'Register now', new_user_registration_path %>
+<% end %>
