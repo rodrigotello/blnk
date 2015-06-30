@@ -11,9 +11,11 @@ It include:
 * Header
 * Home Page
 * Clean CSS
+* "Roboto" font
 * Visualize and edit Views to SignIn and SignUp
 
 Next Step:
+* Clean
 * Add Name to Devise
 * http://jacopretorius.net/2014/03/adding-custom-fields-to-your-devise-user-model-in-rails-4.html
 
@@ -21,6 +23,9 @@ Pipeline:
 
 * Devise edited: Name
 * Company Model
+* Responsive Design
+* Add Multiple Home-Pages
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+By Rodrigo Tello
+http://rodrigotello.me
+http://twitter.com/rodrigotellom
